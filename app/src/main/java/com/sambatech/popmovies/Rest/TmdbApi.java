@@ -14,7 +14,7 @@ import retrofit2.http.Query;
 public interface TmdbApi {
 
     String URL = "https://api.themoviedb.org/3/";
-    String API_KEY = "346705b46d2e0a7cae656ba9577a143c";
+    String API_KEY = "chave_aqui";
     String DEFAULT_LANGUAGE = "pt-BR";
     String DEFAULT_REGION = "BR";
 

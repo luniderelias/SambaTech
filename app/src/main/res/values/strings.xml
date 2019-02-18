@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="not_connected">Sem Conexão</string>
+    <string name="connect">Conectar</string>
+    <string name="search">Pesquisar</string>
+    <string name="order_by_popularity">Ordenar por Popularidade</string>
+    <string name="order_by_rating">Ordenar por Avaliação</string>
+</resources>
